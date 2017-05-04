@@ -3,6 +3,9 @@
 ## Projekti eesmärk
 Arendusprojekti VÕSA eesmärk on luua uudne, õppetegevust toetav ja laiendav virtuaalne õpikeskkond, mis võimaldab muuta IKT õpet praktilisemaks, paindlikumaks ja õppijat toetavamaks.
 
+Reference-style:
+![EL Regionaalarengu Fond][EL_Regionaalarengu_Fond_horisontaalne-300x174.jpg]
+
 ## Projekti üldinfo
  Projekti käigus loome mängulise, reaalseid probleeme simuleeriva õpikeskkonna, mis muudab igava kodutöö huvitavaks ja motiveeriks õppureid rohkem pingutama.
 Õppur siseneb simulatsioonikeskkonda veebisirvija abil ning satub õpiruumi, kus on virtualiseeritud e-teenused, serverid, tööjaamad, kuid ka küberkurikaelad, kes õppuri kaitstavat simulatsiooni ründavad. Õppur leiab ja lahendab probleeme ning kaitseb oma teenuseid ja süsteeme.
