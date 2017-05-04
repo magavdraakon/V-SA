@@ -1,3 +1,7 @@
+---
+layout: page
+title: VÕSA
+---
 # Projekti "Virtuaalsete õpiruumide ja simulatsioonikeskkonna loomine ja juurutamine" (VÕSA)
 
 ## Projekti eesmärk
