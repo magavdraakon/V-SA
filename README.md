@@ -1,39 +1,55 @@
-# Projekti "Virtuaalsete õpiruumide ja simulatsioonikeskkonna loomine ja juurutamine" (VÕSA)
+# jekyll-theme-EasyBook
 
-## Projekti eesmärk
-Arendusprojekti VÕSA eesmärk on luua uudne, õppetegevust toetav ja laiendav virtuaalne õpikeskkond, mis võimaldab muuta IKT õpet praktilisemaks, paindlikumaks ja õppijat toetavamaks.
+Another Jekyll Blog Theme "EasyBook"
 
-Reference-style:
-![EL Regionaalarengu Fond][EL_Regionaalarengu_Fond_horisontaalne-300x174.jpg]
+Start blogging with a simple but powerful theme.
 
-## Projekti üldinfo
- Projekti käigus loome mängulise, reaalseid probleeme simuleeriva õpikeskkonna, mis muudab igava kodutöö huvitavaks ja motiveeriks õppureid rohkem pingutama.
-Õppur siseneb simulatsioonikeskkonda veebisirvija abil ning satub õpiruumi, kus on virtualiseeritud e-teenused, serverid, tööjaamad, kuid ka küberkurikaelad, kes õppuri kaitstavat simulatsiooni ründavad. Õppur leiab ja lahendab probleeme ning kaitseb oma teenuseid ja süsteeme.
+## Features
 
-Simulatsioonikeskkond võimaldab õpetada nii IT süsteemide administreerimise, IT süsteemide arendamise kui ka küberturbe tehnoloogiate õppekavade õppureid.
+- Everything Basic Jekyll has.
+- **Pagination** is enabled.
+- **Comments** using Disqus or 多说.
+- **TOC** makes reading easier.
+- **Profile** including your links and avatar on the sidebar.
+- *And more...*
 
-Projekti tulemusena valmivat simulatsioonikeskkonda saavad kasutada ka teised osapooled, mis aitab suurendada koostööd ka erinevate õppeasutuste ning tööandjate vahel.
+## Install
 
-Projekti rahastatakse Euroopa Regionaalarengu Fondi vahenditest “Ühtekuuluvuspoliitika fondide rakenduskava 2014−2020″ prioriteetse suuna “Kasvuvõimeline ettevõtlus ja rahvusvaheliselt konkurentsivõimeline teadus- ja arendustegevus” meetme “Eesti T&A rahvusvahelise konkurentsivõime suurendamine ja osalemine üle-euroopalistes teadusalgatustes” tegevuse “Institutsionaalne arendusprogramm TA asutustele ja kõrgkoolidele” raames.
+Read [Quick Guide] to learn how to install and publish.
 
-Eesti Infotehnoloogia Kolledž on 2000. aastal loodud mittetulunduslik rakenduskõrgkool, mida haldab Hariduse Infotehnoloogia Sihtasutus (HITSA). IT Kolledžis saab omandada rakendusliku kõrghariduse õppekavadel IT süsteemide administreerimine, IT süsteemide arendus, Infosüsteemide analüüs ja ingliskeelsel õppekaval Cyber Security Engineering (Küberturbe tehnoloogiad).
+Read [Welcome to Jekyll and EasyBook][helloPost] and [Jekyll][jekyll] for further information.
 
+**If need help, please:**
 
+ - [**Read Wiki pages**](https://github.com/laobubu/jekyll-theme-EasyBook/wiki)
+ - **Google it**
+ - [**Submit an issue**](https://github.com/laobubu/jekyll-theme-EasyBook/issues/new)
 
+## Donate
 
-Projekti rahastatakse Euroopa Regionaalarengu Fondi vahenditest “Ühtekuuluvuspoliitika fondide rakenduskava 2014−2020″ prioriteetse suuna “Kasvuvõimeline ettevõtlus ja rahvusvaheliselt konkurentsivõimeline teadus- ja arendustegevus” meetme “Eesti T&A rahvusvahelise konkurentsivõime suurendamine ja osalemine üle-euroopalistes teadusalgatustes” tegevuse “Institutsionaalne arendusprogramm TA asutustele ja kõrgkoolidele” raames.
-Eesti Infotehnoloogia Kolledž on 2000. aastal loodud mittetulunduslik rakenduskõrgkool, mida haldab Hariduse Infotehnoloogia Sihtasutus (HITSA). IT Kolledžis saab omandada rakendusliku kõrghariduse õppekavadel IT süsteemide administreerimine, IT süsteemide arendus, Infosüsteemide analüüs ja ingliskeelsel õppekaval Cyber Security Engineering (Küberturbe tehnoloogiad).
+Buy me a coffee if you find EasyBook useful for you :smiley:
 
+Visit <http://laobubu.net/donate.html>
 
-## Toimunud seminarid
-* 11. jaanuar 2017 kell 14:00 – 17:00 IT Kolledžis ruumis 217,
-VÕSA projekti ja virtuaallaborite süsteemi i-tee tutvustus
-SALVESTUS: I seminar
-* 18. jaanuar 2017 kell 14:00 – 17:00 IT Kolledžis ruumis 219,
-Virtual Teaching Assistant vahendi tutvustus
-SALVESTUS: II seminar
-* 25. jaanuar 2017 kell 14:00 – 17:00 IT Kolledžis ruumis 217,
-Automaatkontrollide tutvustus ja loomine
-SALVESTUS: III seminar
-* 1. veebruar 2017 kell 14:00 – 17:00 IT Kolledžis ruumis 217,
-Virtuaallabori i-tee keskkonna paigaldamine ettevõtte infrastruktuuri
+## Demo
+
+[laobubu's blog](http://blog.laobubu.net) | [empty site](http://laobubu.github.io/jekyll-theme-EasyBook)
+
+![Homepage](https://ooo.0o0.ooo/2016/02/11/56bc997c65daf.png)
+
+## License
+
+```
+The MIT License (MIT)
+Copyright (c) 2016 laobubu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
+[Quick Guide]: https://github.com/laobubu/jekyll-theme-EasyBook/wiki/Quick-Guide
+[helloPost]: http://laobubu.github.io/jekyll-theme-EasyBook/archivers/hello
+[jekyll]: http://jekyllrb.com/
