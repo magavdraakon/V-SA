@@ -4,10 +4,10 @@
     <title>VÕSA Projekt</title>
     <description>One or more sentences introducing this blog.
 </description>
-    <link>//</link>
-    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Jun 2017 08:19:57 +0000</pubDate>
-    <lastBuildDate>Wed, 14 Jun 2017 08:19:57 +0000</lastBuildDate>
+    <link>http://vosa.itcollege.ee//</link>
+    <atom:link href="http://vosa.itcollege.ee//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Jun 2017 08:24:59 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Jun 2017 08:24:59 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -78,8 +78,8 @@ www.itcollege.ee&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 11 Jan 2017 08:00:00 +0000</pubDate>
-        <link>//archivers/esimesed-seminarid.html</link>
-        <guid isPermaLink="true">//archivers/esimesed-seminarid.html</guid>
+        <link>http://vosa.itcollege.ee//archivers/esimesed-seminarid.html</link>
+        <guid isPermaLink="true">http://vosa.itcollege.ee//archivers/esimesed-seminarid.html</guid>
         
         
         <category>Seminarid</category>
@@ -151,8 +151,8 @@ www.itcollege.ee&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 16 Dec 2016 08:00:00 +0000</pubDate>
-        <link>//archivers/esimesed-laborid.html</link>
-        <guid isPermaLink="true">//archivers/esimesed-laborid.html</guid>
+        <link>http://vosa.itcollege.ee//archivers/esimesed-laborid.html</link>
+        <guid isPermaLink="true">http://vosa.itcollege.ee//archivers/esimesed-laborid.html</guid>
         
         
         <category>Õpiruumid</category>
@@ -190,8 +190,8 @@ www.itcollege.ee&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/EL_Regionaalarengu_Fond_horisontaalne-300x174.jpg&quot; alt=&quot;ELReg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 19 Aug 2016 08:00:00 +0000</pubDate>
-        <link>//archivers/vosa-alustab.html</link>
-        <guid isPermaLink="true">//archivers/vosa-alustab.html</guid>
+        <link>http://vosa.itcollege.ee//archivers/vosa-alustab.html</link>
+        <guid isPermaLink="true">http://vosa.itcollege.ee//archivers/vosa-alustab.html</guid>
         
         
         <category>Projekt</category>
