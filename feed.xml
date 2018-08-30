@@ -6,15 +6,24 @@
 </description>
     <link>http://vosa.itcollege.ee/</link>
     <atom:link href="/vosa.itcollege.ee/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Aug 2018 04:56:23 -0500</pubDate>
-    <lastBuildDate>Thu, 30 Aug 2018 04:56:23 -0500</lastBuildDate>
+    <pubDate>Thu, 30 Aug 2018 05:02:26 -0500</pubDate>
+    <lastBuildDate>Thu, 30 Aug 2018 05:02:26 -0500</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
     
       <item>
         <title>21.-22. augustil toimus Sausti mõisas VÕSA suvekool</title>
         <description>&lt;p&gt;&lt;strong&gt;21.-22. augustil toimus Sausti mõisas VÕSA suvekool, kuhu tulid kokku TTÜ ja TTÜ IT Kolledži õppejõud, tudengid ning koostööpartnerid. Suvekoolil süveneti õpiruumid loomisele.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Esimesel päeva hommikul andis VÕSA projekti arendusjuht, Margus Ernits, põhjaliku ülevaate projekti hetke seisust, I-Tee platformist ja virtuaalsete õpiruumide ülesehitustest. Enne lõunat mõeldi kõikide suvekoolil osalejatega välja 4 teemat, millest võiks luua virtuaalsed õpiruumid. Nendeks teemadeks olid: ** &lt;em&gt;Docker&lt;/em&gt;‘i paigaldamine ja konteineri loomine &lt;strong&gt;, **võrkude konfigureerimine&lt;/strong&gt;,** &lt;em&gt;iptables&lt;/em&gt;‘i seadistamine** ja ** &lt;em&gt;vim exit room&lt;/em&gt; **. Peale lõunat jaguneti gruppideks, valiti endale üks neljast teemast ning asuti õpiruumi looma. Laborite kallal töötati õhtutundideni.&lt;/p&gt;
+&lt;p&gt;Esimesel päeva hommikul andis VÕSA projekti arendusjuht, Margus Ernits, põhjaliku ülevaate projekti hetke seisust, I-Tee platformist ja virtuaalsete õpiruumide ülesehitustest. Enne lõunat mõeldi kõikide suvekoolil osalejatega välja 4 teemat, millest võiks luua virtuaalsed õpiruumid. Nendeks teemadeks olid:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Docker&lt;/em&gt;‘i paigaldamine ja konteineri loomine;&lt;/li&gt;
+  &lt;li&gt;võrkude konfigureerimine;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;iptables&lt;/em&gt;‘i seadistamine;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;vim exit room&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Peale lõunat jaguneti gruppideks, valiti endale üks neljast teemast ning asuti õpiruumi looma. Laborite kallal töötati õhtutundideni.&lt;/p&gt;
 
 &lt;p&gt;Teisel päeval jätkati tööd õpiruumide tehnilise poolega. Enne lõunat tegi iga grupp kokkuvõtte oma õpiruumi seisust, selle arendamisel esinenud probleemidest ja kõigest õpitust. Kõik toimus vabas arutelu vormis.&lt;/p&gt;
 
@@ -22,7 +31,7 @@
 
 </description>
         <pubDate>Wed, 29 Aug 2018 09:00:00 -0500</pubDate>
-        <link>/vosa.itcollege.ee/archivers/ttu-itk-suvekoolhtml</link>
+        <link>/vosa.itcollege.ee/archivers/ttu-itk-suvekool.html</link>
         <guid isPermaLink="true"></guid>
         
         

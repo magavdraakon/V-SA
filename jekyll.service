@@ -1,0 +1,22 @@
+[Unit]
+Description=Jekyll Container
+After=docker.service
+Requires=docker.service
+ 
+[Service]
+TimeoutStartSec=0
+Restart=always
+ExecStartPre=-/usr/bin/docker rm -f jekyll
+ExecStart=-/usr/bin/docker run \
+	 --name jekyll \
+	 --volume /var/www/html/vosa/:/srv/jekyll/ \
+	 --volume /var/www/html/vosa/_site/:/srv/jekyll/_site/ \
+	 jekyll/jekyll:latest \
+	 jekyll build --watch
+ExecStop=/usr/bin/docker stop jekyll
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
+
