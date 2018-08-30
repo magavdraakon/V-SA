@@ -6,9 +6,29 @@
 </description>
     <link>http://vosa.itcollege.ee/</link>
     <atom:link href="/vosa.itcollege.ee/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Mar 2018 06:26:30 -0500</pubDate>
-    <lastBuildDate>Tue, 20 Mar 2018 06:26:30 -0500</lastBuildDate>
+    <pubDate>Thu, 30 Aug 2018 04:47:15 -0500</pubDate>
+    <lastBuildDate>Thu, 30 Aug 2018 04:47:15 -0500</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>21.-22. augustil toimus Sausti mõisas VÕSA suvekool</title>
+        <description>&lt;p&gt;&lt;strong&gt;21.-22. augustil toimus Sausti mõisas VÕSA suvekool, kuhu tulid kokku TTÜ ja TTÜ IT Kolledži õppejõud, tudengid, koostööpartnerid. Suvekoolil süveneti õpiruumid loomisele&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Esimesel päeval andis Margus Ernits, VÕSA projekti arendusjuht, põhjaliku ülevaate projekti hetke seisust, I-Tee platformist ja virtuaalsete õpiruumide ülesehitustest. Loengu lõpus mõeldi kõikide suvekoolil osalejatega välja 4 teemat, millest võiks luua virtuaalsed õpiruumid. Nendeks teemadeks olid: &lt;em&gt;Docker&lt;/em&gt;‘i paigaldamine ja konteineri loomine, võrkude konfigureerimine, &lt;em&gt;iptables&lt;/em&gt;‘i seadistamine ja &lt;em&gt;vim exit room&lt;/em&gt;. Peale lõunat jaguneti gruppideks, valiti endale üks neljast teemast ning asuti õpiruumi looma.&lt;/p&gt;
+
+&lt;p&gt;Teisel päeval jätkati tööd õpiruumide loomisel. Enne lõunat tegi iga grupp kokkuvõtte oma õpiruumi seisust, selle arendamisel esinenud probleemidest ja kõigest õpitust.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/EL_Regionaalarengu_Fond_horisontaalne-300x174.jpg&quot; alt=&quot;ELReg&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 29 Aug 2018 09:00:00 -0500</pubDate>
+        <link>/vosa.itcollege.ee/archivers/ttu-itk-student-seminar.html</link>
+        <guid isPermaLink="true"></guid>
+        
+        
+        <category>Seminarid</category>
+        
+      </item>
     
       <item>
         <title>On the 19th of March there was a VÕSA Project seminar held in TUT IT College for foreign students</title>
